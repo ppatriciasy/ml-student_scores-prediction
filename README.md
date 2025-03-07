@@ -13,7 +13,7 @@ Repositori ini berisi model Machine Learning untuk memprediksi nilai siswa berda
 ## 🛠 Teknologi yang Digunakan  
 - **Python** (NumPy, Pandas, Matplotlib, Seaborn)  
 - **Scikit-Learn** (Model Regression, Evaluation)  
-- **Google Colab**  
+- **Jupyter Notebook/Google Colab**  
 
 ## 🔧 Pengembangan di Masa Depan  
 ✅ Eksplorasi model lain: **SVM, XGBoost, Neural Networks**  
