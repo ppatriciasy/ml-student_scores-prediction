@@ -5,8 +5,8 @@
 Repositori ini berisi model Machine Learning untuk memprediksi nilai siswa berdasarkan berbagai fitur input menggunakan Python. Proyek ini mencakup preprocessing data, Exploratory Data Analysis (EDA), dan model regresi untuk menganalisis performa akademik siswa.
 
 ## 🚀 Fitur  
-✅ Preprocessing data (handling missing values, Duplicated Data, Outlier Analysis)                 
-✅ Exploratory Data Analysis (EDA)   
+✅ Exploratory Data Analysis (EDA)             
+✅ Feature Engineering (check duplicated data, handling missing values and outlier analysis)                     
 ✅ Implementasi Linear Regression, Decision Tree, dan Random Forest  
 ✅ Model evaluation dengan R² Score
 
