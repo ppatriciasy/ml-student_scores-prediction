@@ -1,6 +1,6 @@
 # 🎯 Student Scores Prediction with Machine Learning  
   
-📌  Proyek ini merupakan tugas dari kelas AI Machine Learning dalam kegiatan Data Series 18.0 yang diselenggarakan oleh Dibimbing.
+📌  Proyek ini merupakan tugas dari kelas AI Machine Learning dalam kegiatan Data Series 18.0 yang diselenggarakan oleh dibimbing.
 
 Repositori ini berisi model Machine Learning untuk memprediksi nilai siswa berdasarkan berbagai fitur input menggunakan Python. Proyek ini mencakup preprocessing data, Exploratory Data Analysis (EDA), dan model regresi untuk menganalisis performa akademik siswa.
 
