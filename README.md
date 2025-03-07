@@ -6,7 +6,6 @@ Repositori ini berisi model Machine Learning untuk memprediksi nilai siswa berda
 
 ## 🚀 Fitur  
 ✅ Preprocessing data (handling missing values, Duplicated Data, Outlier Analysis)
-
 ✅ Exploratory Data Analysis (EDA)  
 ✅ Implementasi Linear Regression, Decision Tree, dan Random Forest  
 ✅ Model evaluation dengan R² Score
@@ -17,6 +16,7 @@ Repositori ini berisi model Machine Learning untuk memprediksi nilai siswa berda
 - **Jupyter Notebook/Google Colab**  
 
 ## 🔧 Pengembangan di Masa Depan  
+✅ Hyperparameter tuning
 ✅ Eksplorasi model lain: **SVM, XGBoost, Neural Networks**  
 ✅ Menggunakan **Ensemble Learning** untuk meningkatkan akurasi  
 
