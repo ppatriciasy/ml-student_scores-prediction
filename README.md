@@ -23,5 +23,5 @@ Repositori ini berisi model Machine Learning untuk memprediksi nilai siswa berda
 📌 Dengan pengembangan lebih lanjut, proyek ini bisa menjadi alat prediksi pendidikan yang lebih akurat! 🚀  
 
 ---
-✍ Dibuat oleh: Putri Patricia, dengan mentor Kak Kurnia Anwar Ra'if.
+✍ Dibuat oleh: Putri Patricia, dengan mentor Kak Kurnia Anwar Ra'if.          
 📜 **Lisensi:** MIT License  
